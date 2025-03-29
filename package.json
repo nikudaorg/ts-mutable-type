@@ -19,5 +19,8 @@
     "types"
   ],
   "author": "Aleksei Chebotarev",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
 }
