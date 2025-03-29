@@ -1,6 +1,6 @@
 {
   "name": "ts-mutable-type",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An experimental setup for tracking mutations at TypeScript compile-time",
   "main": "dist/index.d.ts",
   "types": "dist/index.d.ts",
