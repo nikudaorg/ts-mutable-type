@@ -1,4 +1,4 @@
-# @nikudaorg/ts-mutable-type
+# ts-mutable-type
 
 An experimental setup for tracking **mutations** at TypeScript compile-time.
 
@@ -7,7 +7,7 @@ This package is **not recommended for production use**, but is ideal for researc
 ## 📦 Installation
 
 ```bash
-npm install @nikudaorg/ts-mutable-type
+npm install ts-mutable-type
 ```
 
 ## 🚀 Usage

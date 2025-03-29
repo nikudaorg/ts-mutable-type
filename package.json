@@ -1,5 +1,5 @@
 {
-  "name": "@nikudaorg/ts-mutable-type",
+  "name": "ts-mutable-type",
   "version": "1.0.0",
   "description": "An experimental setup for tracking mutations at TypeScript compile-time",
   "main": "dist/index.d.ts",
