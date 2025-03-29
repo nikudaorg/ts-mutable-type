@@ -9,8 +9,18 @@ This package is **not recommended for production use**, but is ideal for researc
 ```bash
 npm install ts-mutable-type
 ```
-
+  
 ## 🚀 Usage
+
+The following are the types defined by the `ts-mutable-type` module:
+- **`Create<T>`**  
+  Wraps a value `T` in a mutable container whose state can be tracked at the type level.
+
+- **`Current<T>`**  
+  Extracts the type of the current static value of a mutable type `T`.
+
+- **`Mutate<T, New>`**  
+  Used in a mutating function's return type declaration as a type to which the argument is asserted (asserts arg is Mutate<Arg, NewType>)
 
 ### Toggle Function
 
