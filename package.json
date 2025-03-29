@@ -1,0 +1,23 @@
+{
+  "name": "@nikudaorg/ts-mutable-type",
+  "version": "1.0.0",
+  "description": "An experimental setup for tracking mutations at TypeScript compile-time",
+  "main": "dist/index.d.ts",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikudaorg/ts-mutable-type.git"
+  },
+  "keywords": [
+    "typescript",
+    "types"
+  ],
+  "author": "Aleksei Chebotarev",
+  "license": "MIT"
+}
