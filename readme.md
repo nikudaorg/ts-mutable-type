@@ -22,6 +22,9 @@ The following are the types defined by the `ts-mutable-type` module:
 - **`Mutate<T, New>`**  
   Used in a mutating function's return type declaration as a type to which the argument is asserted (asserts arg is Mutate<Arg, NewType>)
 
+- **`Mutable<T>`**  
+  The base type for a type-level mutable value of type `T`
+
 ### Toggle Function
 
 #### Define:
