@@ -9,7 +9,8 @@
   ],
   "scripts": {
     "build": "tsc",
-    "release": "standard-version"
+    "release": "standard-version",
+    "publish": "git push --follow-tags origin main && npm publish"
   },
   "repository": {
     "type": "git",
